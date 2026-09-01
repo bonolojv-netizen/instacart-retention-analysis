@@ -1,0 +1,5 @@
+data/raw/
+notebooks/clean_orders.csv
+notebooks/clean_order_products.csv
+notebooks/clean_products.csv
+.ipynb_checkpoints/
