@@ -1,6 +1,4 @@
-﻿# instacart-retention-analysis
-
- # Instacart Customer Retention & Cohort Analysis
+﻿# Instacart Customer Retention & Cohort Analysis
 
 A cohort/retention analysis of real Instacart order data, built with PostgreSQL, Python, and Power BI.
 Second portfolio project (first: retail RFM segmentation with SQL + Power BI) — this one demonstrates
